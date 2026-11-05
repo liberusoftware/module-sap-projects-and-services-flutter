@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-projects-and-services-flutter",
+  "capabilityKey": "planned:sap:projects-and-services",
+  "presentation": "mobile-flutter",
+  "package": "module_sap_projects_and_services_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/sap/nextjs/projects-and-services.md",
+  "presentationPlan": "projects/sap/flutter/projects-and-services.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
